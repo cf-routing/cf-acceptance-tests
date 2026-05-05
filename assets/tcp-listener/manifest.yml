@@ -1,5 +1,4 @@
 ---
 applications:
   - env:
-      GOPACKAGENAME: tcp-listener
       GOVERSION: latest
